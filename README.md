@@ -18,5 +18,7 @@ Enter the axis which you want around the rotate. Only enter one axis. For exampl
 Enter the atom you want to rotate.
 Enter the reference atom which you around to rotate.
 
+This script can be used best via command-line interface.
+
 ### Author: Ismail Eren
  
